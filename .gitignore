@@ -1,0 +1,10 @@
+node_modules/
+dist/
+logs/
+temp/
+tmp/
+
+*.log
+*.temp
+*.tmp
+*.cache
