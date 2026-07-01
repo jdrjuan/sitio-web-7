@@ -20,6 +20,10 @@ h1 {
 footer {
     background-color: #246;
     color: #f2f2f2;
-    padding: 20px;
+    padding: 18px;
     margin-top: 20px;
+}
+
+.carrito header {
+    margin-bottom: 20px;
 }
